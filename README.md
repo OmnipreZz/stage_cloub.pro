@@ -1,4 +1,6 @@
-# Stage Cloub.pro
+# Stage Cloub Technologies
+
+Enregistrement sonore et édition musicale.
 
 Cloub est un réseau strictement professionnel basé sur une solution d'enregistrement haute définition révolutionnaire, programmable et connectée au cloud, profitant à l'ensemble de l'écosystème de la musique live.
 
