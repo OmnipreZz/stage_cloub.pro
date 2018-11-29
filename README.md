@@ -15,7 +15,7 @@ Cloub est un réseau strictement professionnel basé sur une solution d'enregist
 
 ## Dossier de projet
 
-Tout les détails dans le Wiki
+Tout les détails dans le Wiki : https://github.com/OmnipreZz/stage_cloub.pro/wiki
 
 
 ## Contenu de la présentation orale
